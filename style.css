@@ -6,3 +6,11 @@
 	padding-left:20px;
 	padding-top: 2px; 
 }
+
+.box {
+	width: 200px;
+	height: 100px;
+	background-color: purple;
+	margin-top: 50px;
+	text-align: center;
+}
